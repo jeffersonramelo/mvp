@@ -1,4 +1,4 @@
-# Lumina Invest
+# xfinance
 
 MVP de uma plataforma de planejamento financeiro que permite definir um objetivo, distribuir aportes entre classes de ativos e acompanhar o progresso de forma visual.
 
